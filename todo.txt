@@ -1,0 +1,8 @@
+notes:
+1.  the data file is too big to store in git; place the train_and_test.npz file in local dir
+2.  I used google colab and changed from cpu to gpu; runs a lot faster
+3.  the file "Copy of german_signs3.ipynb" is a scaled down version of my original model;
+    see if you can optimize further.  Right now its at 90%.  My larger model is 98% but let's see
+    if we can get by with a simpler model.
+
+
