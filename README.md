@@ -1,4 +1,4 @@
-# Kaggle03 - German Sign Classification  
+## Kaggle03 - German Sign Classification  
 [link to report](https://steve303.github.io/Kaggle03.pdf)  
 
 good resources:  
